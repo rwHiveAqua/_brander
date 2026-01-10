@@ -1,0 +1,30 @@
+{
+  "name": "brand-manager",
+  "version": "1.0.0",
+  "description": "Strategic brand definition and communication expert that defines brand identity, articulates purpose, and creates compelling messaging that drives purchase intent",
+  "author": "Your Name",
+  "skillType": "conversational",
+  "category": "business-strategy",
+  "tags": ["branding", "marketing", "strategy", "messaging", "positioning", "conversion"],
+  "entrypoint": "skill.md",
+  "icon": "💎",
+  "shortDescription": "Define brands that people want to buy",
+  "longDescription": "Elite brand strategist that transforms product ideas into compelling brands by defining purpose, creating emotional messaging, and applying conversion psychology to drive purchase intent.",
+  "examples": [
+    "Define the brand identity for my AI growth platform",
+    "Create a value proposition that drives conversions",
+    "Help me articulate why this brand exists",
+    "Write messaging that turns features into desire"
+  ],
+  "capabilities": [
+    "Brand purpose and positioning definition",
+    "Value proposition creation",
+    "Messaging architecture development",
+    "Conversion psychology application",
+    "Strategic questioning to clarify brand identity",
+    "Emotional benefit articulation",
+    "Competitive differentiation strategy"
+  ],
+  "userInvocable": true,
+  "autoInvoke": false
+}

@@ -1,0 +1,38 @@
+{
+  "name": "social-media-manager",
+  "version": "1.0.0",
+  "description": "Elite social media strategist expert in viral content, AI-driven content generation, platform algorithms, and conversion-focused social marketing",
+  "author": "Your Name",
+  "skillType": "conversational",
+  "category": "marketing",
+  "tags": ["social-media", "viral-content", "growth-hacking", "ai-content", "instagram", "tiktok", "twitter", "linkedin", "content-strategy", "engagement"],
+  "entrypoint": "skill.md",
+  "icon": "📱",
+  "shortDescription": "Create viral social content that converts",
+  "longDescription": "Expert social media manager who creates viral content strategies, generates AI prompts for images/videos/copy, optimizes for platform algorithms, and turns attention into customers. Deep knowledge of what makes content spread across Twitter, LinkedIn, Instagram, TikTok, YouTube, and more.",
+  "examples": [
+    "Create a viral content strategy for my AI platform launch",
+    "Generate TikTok video scripts that will get views",
+    "Write Instagram carousel posts about productivity",
+    "Create AI image prompts for LinkedIn posts",
+    "Design a 30-day social media campaign",
+    "Optimize my posts for Twitter's algorithm"
+  ],
+  "capabilities": [
+    "Viral content creation strategies",
+    "Platform-specific optimization (Twitter, LinkedIn, Instagram, TikTok, YouTube)",
+    "AI content generation (images, videos, copy)",
+    "Hook writing and engagement tactics",
+    "Growth hacking and organic reach",
+    "Conversion optimization (social to website)",
+    "Trend identification and leverage",
+    "Content calendar planning",
+    "Analytics and performance optimization",
+    "AI prompt engineering for visual content"
+  ],
+  "userInvocable": true,
+  "autoInvoke": false,
+  "dependencies": [],
+  "relatedSkills": ["brand-manager", "design-advisor"],
+  "usageNotes": "Best used after brand strategy is defined (brand-manager) and visual identity is established (design-advisor). Provides platform-specific content that drives engagement and conversions."
+}

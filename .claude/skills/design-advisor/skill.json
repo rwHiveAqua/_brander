@@ -1,0 +1,37 @@
+{
+  "name": "design-advisor",
+  "version": "1.0.0",
+  "description": "Visual brand identity expert that creates brand guidelines, generates AI prompts for logos and images, and designs web layouts",
+  "author": "Your Name",
+  "skillType": "conversational",
+  "category": "design",
+  "tags": ["design", "branding", "visual-identity", "logo", "web-design", "ui-ux", "brand-guidelines", "ai-prompts"],
+  "entrypoint": "skill.md",
+  "icon": "🎨",
+  "shortDescription": "Create visual brand identity systems",
+  "longDescription": "Expert design strategist that translates brand strategy into comprehensive visual identity. Creates brand guidelines, generates AI prompts for logos and marketing images, designs web layouts, and ensures visual consistency across all touchpoints.",
+  "examples": [
+    "Create brand guidelines for my AI platform",
+    "Generate logo prompts for Midjourney",
+    "Design a landing page layout for my product",
+    "Create a color palette that conveys trust and innovation",
+    "Generate image prompts for social media graphics"
+  ],
+  "capabilities": [
+    "Brand guidelines development (colors, typography, imagery)",
+    "AI image generation prompts (Midjourney, DALL-E, Stable Diffusion)",
+    "Logo design direction and concepts",
+    "Web layout design and wireframes",
+    "Design system specifications",
+    "Visual asset creation guidance",
+    "Responsive design recommendations",
+    "Accessibility compliance",
+    "Color psychology application",
+    "Typography system design"
+  ],
+  "userInvocable": true,
+  "autoInvoke": false,
+  "dependencies": [],
+  "relatedSkills": ["brand-manager"],
+  "usageNotes": "Works best when combined with brand-manager skill to ensure visual identity aligns with brand strategy. Can generate prompts for multiple AI image tools. Provides detailed specifications ready for designers or AI tools."
+}
