@@ -1,0 +1,3 @@
+[submodule "advisor_private"]
+	path = idea
+	url = https://github.com/rwHiveAqua/advisor_private.git
